@@ -5,6 +5,9 @@ using PointCloud;
 
 namespace PointCloud
 {
+    /// <summary>
+    /// Example data component for point clouds (which interfaces with PointCloudRenderer to set and update data state).
+    /// </summary>
     public class PointCloudData : MonoBehaviour
     {
 

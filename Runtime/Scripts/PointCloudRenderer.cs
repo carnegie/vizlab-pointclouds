@@ -7,6 +7,9 @@ using System.Diagnostics;
 namespace PointCloud
 {
 
+    /// <summary>
+    /// Rendering component for displaying point clouds.
+    /// </summary>
     public class PointCloudRenderer : MonoBehaviour
     {
         // Public fields
